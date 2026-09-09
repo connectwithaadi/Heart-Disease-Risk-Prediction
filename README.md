@@ -1,4 +1,4 @@
-Heart Disease Risk Prediction
+# Heart Disease Risk Prediction
 
 A Machine Learning project that predicts the risk of heart disease using patient health and clinical attributes. The project uses K-Nearest Neighbors (KNN) as the final prediction model and provides an interactive Streamlit web application.
 
